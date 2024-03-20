@@ -1,5 +1,5 @@
-<H3>Name: RAHUL B</H3>
-<H3>Register no: 212222220032</H3>
+<H3>Name: SANJAY M</H3>
+<H3>Register no: 212222110038</H3>
 ## Implementation of Perceptron for Binary Classification
 # AIM:
 To implement a perceptron for classification using Python<BR>
